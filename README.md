@@ -44,16 +44,17 @@
 
 
 <h2>GitHub :Rafael-Diaz-O:</h2>
+<h2>Estadisticas:</h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
-<table align="left">
+<!---<table align="left">
 <tr border="none">
 <td width="60%" align="center">
 
 <!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Rafael-Diaz-O&theme=dark&show_icons=true&count_private=true" />
   <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael-Diaz-O&theme=dark&hide_border=false" /> 
+<!---  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rafael-Diaz-O&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="40%" align="center">
@@ -65,7 +66,7 @@
 </table>
 <!--- stats (end) -->
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rafael-Diaz-O&theme=github-dark-blue&border_radius=4.6)](https://git.io/streak-stats)
 
 
 </p>        
